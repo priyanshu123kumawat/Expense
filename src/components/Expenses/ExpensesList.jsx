@@ -5,7 +5,7 @@ import ExpensesItem from './ExpensesItem';
 
 
 
-const ExpensesList = (props) => { //props se data nikala jata h
+const ExpensesList = (props) => { 
 
     return (
         <ul className="expenses-list">
